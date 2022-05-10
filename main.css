@@ -16,6 +16,10 @@ body{
 
 }
 
+#myName{
+    font-size: 50px;
+}
+
 .countdown-container{
     display: flex;
 }
