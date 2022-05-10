@@ -16,6 +16,10 @@ body{
 
 }
 
+.sirname{
+    padding: 50px;
+}
+
 .countdown-container{
     display: flex;
 }
